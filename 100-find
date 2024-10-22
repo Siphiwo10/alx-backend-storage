@@ -1,0 +1,3 @@
+// find all docs
+
+db.school.find({name: /^Holberton/});
